@@ -8,3 +8,10 @@ python manage.py migrate
 
 
 
+
+
+
+
+
+
+

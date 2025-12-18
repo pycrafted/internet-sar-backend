@@ -121,3 +121,10 @@ Si vous voyez des erreurs CORS, vérifiez que :
 
 
 
+
+
+
+
+
+
+
